@@ -180,7 +180,7 @@ export default function AboutPage() {
         <div className="grid sm:grid-cols-2 gap-6">
           <div>
             <Image
-              src="/fun1.jpg"
+              src="/boxing.png"
               alt="Boxing Club"
               width={500}
               height={300}
@@ -192,7 +192,7 @@ export default function AboutPage() {
           </div>
           <div>
             <Image
-              src="/fun2.jpg"
+              src="/travel.jpg"
               alt="Traveling"
               width={500}
               height={300}
