@@ -20,6 +20,16 @@ export default function ContactPage() {
             github.com/FrankWember
           </a>
         </li>
+        <li>
+          LinkedIn:{" "}
+          <a
+            href="https://www.linkedin.com/in/frank-wember-b11140253/"
+            target="_blank"
+            className="text-blue-600 underline"
+          >
+            linkedin.com/in/frankwember
+          </a>
+        </li>
       </ul>
     </div>
   );
