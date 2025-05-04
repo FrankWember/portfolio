@@ -192,7 +192,7 @@ export default function AboutPage() {
           </div>
           <div>
             <Image
-              src="/travel.jpg"
+              src="/travel.png"
               alt="Traveling"
               width={500}
               height={300}
