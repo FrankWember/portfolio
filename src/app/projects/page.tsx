@@ -13,7 +13,7 @@ export default function ProjectsPage() {
       title: "🛍️ Dormbiz",
       description:
         "A TypeScript-powered campus platform where students can join study groups, buy/sell items, and connect with peers across their university.",
-      github: "https://github.com/FrankWember/UniHive-v1",
+      github: "https://dormbiz.net",
       image: "/Dormbiz.png",
     },
     {
